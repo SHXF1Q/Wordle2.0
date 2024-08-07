@@ -17,3 +17,9 @@ Welcome to the Wordle 2.0 Game! This project recreates the popular word-guessing
   - `fiveletterdict.txt` & `secretwordlist.txt`: Contain valid words and potential secret words, respectively.
 - **Hashing:** Passwords are securely hashed using SHA-256 for enhanced security.
 
+## Getting Started 
+
+- Visit the game page at https://replit.com/@Shafm8088/Wordle-20
+- Execute the code directly on the Replit platform and follow the on-screen instructions to start playing.
+
+
